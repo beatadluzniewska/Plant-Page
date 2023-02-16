@@ -1,2 +1,2 @@
-# SheCodes
-HTML, CSS, JS, React
+# Plant Page
+HTML, CSS, JS
